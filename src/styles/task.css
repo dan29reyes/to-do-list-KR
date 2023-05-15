@@ -1,0 +1,38 @@
+.task {
+  margin-top: 20px;
+  border: none;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Fitness-task {
+  max-height: 160px;
+  max-width: 460px;
+}
+
+.Fitness-task-Info {
+  padding-left: 0;
+  padding-right: 0;
+  text-align: center;
+}
+
+.Fitness-task-Info h1 {
+  font-size: 23px;
+  color: white;
+}
+
+.Fitness-task-Info p {
+  font-size: 11px;
+  color: white;
+}
+
+.Fitness-Add {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  margin-top: 100px;
+  margin-bottom: 80px;
+}
